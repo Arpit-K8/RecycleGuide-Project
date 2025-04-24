@@ -9,13 +9,13 @@
 </head>
 <body>
     <nav class="navbar">
-        <a href="index.html" class="logo">
+        <a href="homepage.php" class="logo">
             <i class="fas fa-recycle"></i>
             <h1>RecycleMate</h1>
         </a>
         <div class="nav-links">
             <a href="homepage.php">Home</a>
-            <a href="about.php" class="active">About</a>
+            <a href="Aboutus.php" class="active">About</a>
             <a href="resources.php">Resources</a>
             <a href="contact.php">Contact</a>
         </div>

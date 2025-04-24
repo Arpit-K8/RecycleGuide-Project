@@ -25,19 +25,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Basic validation: Check if any of the fields are empty
     if (empty($name) || empty($email) || empty($subject) || empty($message)) {
-        echo "error: Please fill in all the fields.";
+        echo "<script>alert(error: Please fill in all the fields.);</script>";
         exit(); // Stop execution if any field is empty
     }
 
     // Validate email format
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        echo "error: Invalid email format.";
+        echo "<script>alert(error: Invalid email format.);</script>";
         exit(); // Stop execution if email is invalid
     }
 
     // Constraint: Check if the name contains numbers
     if (preg_match('/\d/', $name)) {
-        echo "error: Name cannot contain numbers.";
+        echo "<script>alert(error: Name cannot contain numbers.);</script>";
         exit();
     }
 
