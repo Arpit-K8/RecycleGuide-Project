@@ -91,7 +91,7 @@
                     <a href="#" class="cta-button" id="show-chatbot">
                         <i class="fas fa-comments"></i> Chat with RecycleMate
                     </a>
-                    <a href="#" class="cta-button">
+                    <a href="Aboutus.php" class="cta-button">
                         <i class="fas fa-map-marker-alt"></i> Find Recycling Centers
                     </a>
                 </div>
