@@ -9,7 +9,7 @@
 </head>
 <body>
     <nav class="navbar">
-        <a href="index.html" class="logo">
+        <a href="homepage.php" class="logo">
             <i class="fas fa-recycle"></i>
             <h1>RecycleMate</h1>
         </a>
