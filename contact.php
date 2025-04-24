@@ -15,7 +15,7 @@
         </a>
         <div class="nav-links">
             <a href="homepage.php">Home</a>
-            <a href="about.php">About</a>
+            <a href="Aboutus.php">About</a>
             <a href="resources.php">Resources</a>
             <a href="contact.php" class="active">Contact</a>
         </div>
