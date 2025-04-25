@@ -93,17 +93,6 @@ RecycleGuide Project/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For any queries or support, please contact:
-- Email: support@recyclemate.com
-- Phone: (555) 123-4567
-- Address: 123 Green Avenue, Amritsar, Punjab, India
-
 ## Acknowledgments
 
 - Font Awesome for the icons
