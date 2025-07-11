@@ -53,7 +53,7 @@ $dbname = "user_support";
 
 ```
 RecycleGuide Project/
-├── homepage.php          # Main landing page
+├── index.php          # Main landing page
 ├── Aboutus.php           # About Us page
 ├── resources.php         # Educational resources
 ├── contact.php           # Contact form page
