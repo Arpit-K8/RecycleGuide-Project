@@ -15,7 +15,7 @@
             <h1>RecycleMate</h1>
         </a>
         <div class="nav-links">
-            <a href="homepage.php" class="active">Home</a>
+            <a href="index.php" class="active">Home</a>
             <a href="Aboutus.php">About</a>
             <a href="resources.php">Resources</a>
             <a href="contact.php">Contact</a>

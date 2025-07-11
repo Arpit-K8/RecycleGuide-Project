@@ -8,12 +8,12 @@
 </head>
 <body>
     <nav class="navbar">
-        <a href="homepage.php" class="logo">
+        <a href="index.php" class="logo">
             <i class="fas fa-recycle"></i>
             <h1>RecycleMate</h1>
         </a>
         <div class="nav-links">
-            <a href="homepage.php">Home</a>
+            <a href="index.php">Home</a>
             <a href="Aboutus.php">About</a>
             <a href="resources.php" class="active">Resources</a>
             <a href="contact.php">Contact</a>
